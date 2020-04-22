@@ -1,4 +1,4 @@
 package org.lly.controller.developer;
 
-public class MyControllerss {
+public class My {
 }
